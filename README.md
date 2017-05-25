@@ -2,25 +2,32 @@
 curso de html, css y javascript
 <html>
 	<head>
-	<head/>
+		<title> Tarea 1 </title>
+	</head>
 	<body>
-	<style>	
-	body{
-	background-color: #ffff00;
-	}
-	</style>
-	Prueba ... 1
-
-	<a href="https://www.google.com.ar/?gws_rd=ssl" target= "_blank">link</a>
-	<img src="https://catedras.info.unlp.edu.ar/pluginfile.php/2661/course/section/5052/HFD_CRONOGRAMA.png"/>
-	<table border="3">
-	<tr>
-		<td >Pais</td>
-		<td rowspan="2">lilolilo</td>
-	</tr>
-	<tr>
-		<td >lalalala</td>
-	</tr>
-
-	</body>
-</html>	
+		<table borde="3">
+			<tr>
+			<td>Inicio</td>
+			<td>Para amantes de la estabilidad</td>
+			<td>Para principiantes</td>
+			<td>Para los equipos menos potentes</td>
+			<td>Para los apasionados de sus hobbies</td>
+			<tr>
+			<td colspan="5">
+			31 distribuciones Linux para elegir bien la que más necesitas
+			Fuente original: <a href="https://www.genbeta.com/linux/31-distribuciones-de-linux-para-elegir-bien-la-que-mas-necesitas" target="_blank">https://www.genbeta.com/linux/31-distribuciones-de-linux-para-elegir-bien-la-que-mas-necesitas<a/>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			</td>
+			</table>
+	</body>		
