@@ -15,6 +15,7 @@ curso de html, css y javascript
 			<tr>
 			<td colspan="5">
 			31 distribuciones Linux para elegir bien la que más necesitas
+			<br>
 			Fuente original: <a href="https://www.genbeta.com/linux/31-distribuciones-de-linux-para-elegir-bien-la-que-mas-necesitas" target="_blank">https://www.genbeta.com/linux/31-distribuciones-de-linux-para-elegir-bien-la-que-mas-necesitas<a/>
 			
 			
