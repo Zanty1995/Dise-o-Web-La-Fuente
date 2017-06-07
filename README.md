@@ -3,8 +3,10 @@ curso de html, css y javascript
 <html>
 	<head>
 		<title> Tarea 1 </title>
+	<link href="style.css">
 	</head>
 	<body>
+	
 		<table borde="3">
 			<tr>
 			<td>Inicio</td>
